@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.istockphoto.com/vectors/realistic-pink-ribbon-breast-cancer-awareness-symbol-isolated-on-vector-id849443826?k=6&m=849443826&s=612x612&w=0&h=p-icj9BbMMsSS9Vb4cV5dDYQ4n_z5N_67cLOqhfcQug=" width="30%" height="30%" />
+  <img src="https://media.istockphoto.com/vectors/realistic-pink-ribbon-breast-cancer-awareness-symbol-isolated-on-vector-id849443826?k=6&m=849443826&s=612x612&w=0&h=p-icj9BbMMsSS9Vb4cV5dDYQ4n_z5N_67cLOqhfcQug=" width="20%" height="20%" />
 </p>
 
 <h1 align="center">Breast Cancer Analysis</h1>
