@@ -18,7 +18,7 @@ It is carried on the *Breast Cancer Wisconsin* dataset, available on UCI Machine
 - K-means
 - Hierarchical Clustering
 - Cluster Validation:
--   Adjusted Rand Index
--   Confusion Matrix
+ -   Adjusted Rand Index
+ -   Confusion Matrix
 
 
