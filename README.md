@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<h1>BREAST CANCER ANALYSIS </h1></p>
+<h1>BREAST CANCER ANALYSIS </h1> </p>
 
 
 Machine Learning analysis (both supervised and unsupervised) for Advanced ML Course of MSc in Data Science for Management, University of Catania.
