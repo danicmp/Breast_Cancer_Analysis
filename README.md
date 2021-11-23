@@ -6,7 +6,7 @@
 
 Machine Learning analysis (both supervised and unsupervised) for Advanced ML Course of MSc in Data Science for Management, University of Catania.
 
-It is carried on the *Breast Cancer Wisconsin* dataset, available on UCI Machine Learning Repository and also on Kaggle. 
+This analysis is carried on the *Breast Cancer Wisconsin* dataset, available on UCI Machine Learning Repository and also on Kaggle. 
 
 ## SUPERVISED LEARNING:
 - Logistic Regression
