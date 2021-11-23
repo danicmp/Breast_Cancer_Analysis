@@ -4,7 +4,7 @@ Machine Learning analysis (both supervised and unsupervised) for Advanced ML Cou
 
 It is carried on the *Breast Cancer Wisconsin* dataset, available on UCI Machine Learning Repository and also on Kaggle. 
 
-# SUPERVISED LEARNING:
+## SUPERVISED LEARNING:
 - Logistic Regression
 - Support Vector Machine
 - Gaussian Naive Bayes
@@ -14,7 +14,11 @@ It is carried on the *Breast Cancer Wisconsin* dataset, available on UCI Machine
 - K-Nearest Neighbors
 - SMOTE for handling data imbalance
 
-# UNSUPERVISED LEARNING:
-- 
+## UNSUPERVISED LEARNING:
+- K-means
+- Hierarchical Clustering
+- Cluster Validation:
+-   Adjusted Rand Index
+-   Confusion Matrix
 
 
